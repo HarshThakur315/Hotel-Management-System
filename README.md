@@ -3,7 +3,7 @@
 Console-based hotel management program with room availability, bookings, customer records, billing and file storage.
 
 ## Features
-- View rooms 101–310 and their availability
+- View rooms 101–110 and their availability
 - Book an available room
 - View customer bookings and estimated bills
 - Cancel a booking
