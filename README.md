@@ -25,7 +25,7 @@ The program creates/updates `bookings.txt` in the working directory. Customer na
 ## Browser preview
 Open `index.html` for a colourful interactive demonstration. The C++ source is `main.cpp`.
 ## 👨‍💻 Developer
-**Harsh Thakur**
+**Harsh**
 
 ## 🛠️ Technologies Used
 - C++
